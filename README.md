@@ -35,12 +35,12 @@ print(l2_norm)
 <br>
 <br>
 ### 2-Norm of a Matrix
-
+![alt text](<Screenshot 2024-12-26 184113-1.png>)
 <br>
 <br>
 <br>
 ### Infinity Norm of a Matrix
-
+![alt text](<Screenshot 2024-12-26 184135-1.png>)
 <br>
 <br>
 <br>

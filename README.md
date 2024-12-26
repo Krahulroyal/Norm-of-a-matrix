@@ -30,19 +30,19 @@ print(l2_norm)
 ```
 ## Output:
 ### 1-Norm of a Matrix
+![alt text](<Screenshot 2024-12-26 184044-1.png>)
 <br>
 <br>
 <br>
-![alt text](<Screenshot 2024-12-26 184044.png>)
 ### 2-Norm of a Matrix
+
 <br>
 <br>
 <br>
-![alt text](<Screenshot 2024-12-26 184113.png>)
 ### Infinity Norm of a Matrix
+
 <br>
 <br>
 <br>
-![alt text](<Screenshot 2024-12-26 184135.png>)
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
